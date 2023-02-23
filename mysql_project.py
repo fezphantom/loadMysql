@@ -197,7 +197,8 @@ db.create_table(h)
 
 #Insert records into database
 # db.insert(body)
-db.update('Na',9,'indx',214)
+# db.update('Na',9,'indx',214)
+db.delete('Na',9)
 
 
 
