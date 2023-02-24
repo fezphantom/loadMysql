@@ -1,5 +1,7 @@
 # loadMysql
-Problem statement: Populating a database with data read from a file.
+Problem statement: create a class to implement insert , update and delete in Mysql .
+
+
 Imports:
 mysql.connector: a module to allow python interact with mysql database.
 logging module: to log all activities: errors and processes to help with debugging.
